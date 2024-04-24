@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Prateek and I'm a Full-Stack Developer, from Bhopal, India</h1>
+<h1 align="left">Hi 👋! My name is Prateek Singh Chouhan and I'm a Full-Stack Developer, from Bhopal, India</h1>
 
 ###
 
