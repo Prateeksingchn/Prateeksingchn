@@ -2,54 +2,58 @@
 
 ###
 
+<p align="left">Full Stack Developer skilled in MERN stack, Next.js, Java, Data Structures & Algorithms. Proficient in building robust web applications with responsive UIs and efficient server-side logic. Strong grasp of Computer Science principles and software engineering practices.<br><br>Experienced in leveraging React.js, Next.js, Node.js, Express.js, and MongoDB. Committed to writing clean, maintainable code and exploring new technologies. Previously served as Cluster Head, showcasing leadership abilities.<br><br>Passionate about problem-solving and expanding knowledge in the field. Open to collaboration on exciting projects and contributing to the open-source community.</p>
+
+###
+
 <br clear="both">
 
 <div align="center">
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="55" alt="html5 logo"  />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
   <img width="20" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="55" alt="css3 logo"  />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="55" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
   <img width="20" />
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="55" alt="bootstrap logo"  />
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40" alt="bootstrap logo"  />
   <img width="20" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="55" alt="javascript logo"  />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=react" height="55" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=redux" height="55" alt="redux logo"  />
+  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="55" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="55" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=express" height="55" alt="express logo"  />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="55" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
   <img width="20" />
-  <img src="https://cdn.simpleicons.org/astro/FF5D01" height="55" alt="astro logo"  />
+  <img src="https://cdn.simpleicons.org/astro/FF5D01" height="40" alt="astro logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=vite" height="55" alt="vite logo"  />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=java" height="55" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=git" height="55" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=github" height="55" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="55" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="20" />
-  <img src="https://cdn.simpleicons.org/appwrite/F02E65" height="55" alt="appwrite logo"  />
+  <img src="https://cdn.simpleicons.org/appwrite/F02E65" height="40" alt="appwrite logo"  />
   <img width="20" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="55" alt="canva logo"  />
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo"  />
   <img width="20" />
-  <img src="https://cdn.simpleicons.org/jquery/0769AD" height="55" alt="jquery logo"  />
+  <img src="https://cdn.simpleicons.org/jquery/0769AD" height="40" alt="jquery logo"  />
   <img width="20" />
-  <img src="https://cdn.simpleicons.org/npm/CB3837" height="55" alt="npm logo"  />
+  <img src="https://cdn.simpleicons.org/npm/CB3837" height="40" alt="npm logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="55" alt="socketio logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="socketio logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="55" alt="behance logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="40" alt="behance logo"  />
 </div>
 
 ###
@@ -78,11 +82,5 @@
   <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="hackerrank logo"  />
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="youtube logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img align="left" height="260" src="https://images.unsplash.com/photo-1483728642387-6c3bdd6c93e5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fG1vdW50YWlufGVufDB8fDB8fHww"  />
 
 ###
