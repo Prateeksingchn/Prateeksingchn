@@ -11,9 +11,9 @@
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="55" alt="tailwindcss logo"  />
   <img width="20" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="55" alt="javascript logo"  />
-  <img width="20" />
   <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="55" alt="bootstrap logo"  />
+  <img width="20" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="55" alt="javascript logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=react" height="55" alt="react logo"  />
   <img width="20" />
@@ -40,8 +40,6 @@
   <img src="https://skillicons.dev/icons?i=mysql" height="55" alt="mysql logo"  />
   <img width="20" />
   <img src="https://cdn.simpleicons.org/appwrite/F02E65" height="55" alt="appwrite logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="55" alt="firebase logo"  />
   <img width="20" />
   <img src="https://cdn.simpleicons.org/canva/00C4CC" height="55" alt="canva logo"  />
   <img width="20" />
