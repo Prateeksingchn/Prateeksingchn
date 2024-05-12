@@ -6,49 +6,49 @@
 
 <div align="center">
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="55" alt="html5 logo"  />
-  <img width="22" />
+  <img width="20" />
   <img src="https://cdn.simpleicons.org/css3/1572B6" height="55" alt="css3 logo"  />
-  <img width="22" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="55" alt="tailwindcss logo"  />
-  <img width="22" />
+  <img width="20" />
   <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="55" alt="bootstrap logo"  />
-  <img width="22" />
+  <img width="20" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="55" alt="javascript logo"  />
-  <img width="22" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=react" height="55" alt="react logo"  />
-  <img width="22" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=redux" height="55" alt="redux logo"  />
-  <img width="22" />
+  <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="55" alt="nextjs logo"  />
-  <img width="22" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="55" alt="nodejs logo"  />
-  <img width="22" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=express" height="55" alt="express logo"  />
-  <img width="22" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="55" alt="mongodb logo"  />
-  <img width="22" />
+  <img width="20" />
   <img src="https://cdn.simpleicons.org/astro/FF5D01" height="55" alt="astro logo"  />
-  <img width="22" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=vite" height="55" alt="vite logo"  />
-  <img width="22" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=java" height="55" alt="java logo"  />
-  <img width="22" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=git" height="55" alt="git logo"  />
-  <img width="22" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=github" height="55" alt="github logo"  />
-  <img width="22" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=mysql" height="55" alt="mysql logo"  />
-  <img width="22" />
+  <img width="20" />
   <img src="https://cdn.simpleicons.org/appwrite/F02E65" height="55" alt="appwrite logo"  />
-  <img width="22" />
+  <img width="20" />
   <img src="https://cdn.simpleicons.org/canva/00C4CC" height="55" alt="canva logo"  />
-  <img width="22" />
+  <img width="20" />
   <img src="https://cdn.simpleicons.org/jquery/0769AD" height="55" alt="jquery logo"  />
-  <img width="22" />
+  <img width="20" />
   <img src="https://cdn.simpleicons.org/npm/CB3837" height="55" alt="npm logo"  />
-  <img width="22" />
+  <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="55" alt="socketio logo"  />
-  <img width="22" />
+  <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="55" alt="behance logo"  />
 </div>
 
