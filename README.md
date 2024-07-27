@@ -4,13 +4,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;MERN+Stack+Enthusiast;UI%2FUX+Designer;Open+Source+Contributor" alt="Typing SVG" /></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Prateeksingchn&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
 ## 💫 About Me
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 I'm a passionate Full-Stack Developer from Bhopal, India, with expertise in:
 
