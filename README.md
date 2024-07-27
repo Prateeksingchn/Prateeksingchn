@@ -10,6 +10,7 @@
 
 ## 💫 About Me
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 I'm a passionate Full-Stack Developer from Bhopal, India, with expertise in:
 
@@ -88,28 +89,30 @@ Previously served as a Cluster Head, showcasing leadership abilities. I'm commit
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Prateeksingchn&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prateeksingchn&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prateeksingchn&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=darkhub&no-frame=true&margin-w=15&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Prateeksingchn&theme=darkhub&no-frame=true&margin-w=15&column=7" alt="GitHub Trophies" />
 </p>
 
 ## 🐍 Contribution Graph
 
-<p align="center">
-  <img src="https://github.com/Prateeksingchn/Prateeksingchn/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prateeksingchn/Prateeksingchn/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prateeksingchn/Prateeksingchn/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Prateeksingchn/Prateeksingchn/output/github-contribution-grid-snake.svg">
+</picture>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
