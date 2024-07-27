@@ -10,7 +10,6 @@
 
 ## 💫 About Me
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 I'm a passionate Full-Stack Developer from Bhopal, India, with expertise in:
 
@@ -49,32 +48,6 @@ Previously served as a Cluster Head, showcasing leadership abilities. I'm commit
   <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io" />
 </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=darkhub&no-frame=true&margin-w=15&column=7" alt="GitHub Trophies" />
-</p>
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://github.com/YourGitHubUsername/YourGitHubUsername/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
 <h2 align="center" style="font-size: 36px;">📫 Let's Connect</h2>
 
 <p align="center">
@@ -111,6 +84,32 @@ Previously served as a Cluster Head, showcasing leadership abilities. I'm commit
 </p>
 
 ---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=darkhub&no-frame=true&margin-w=15&column=7" alt="GitHub Trophies" />
+</p>
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://github.com/Prateeksingchn/Prateeksingchn/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
