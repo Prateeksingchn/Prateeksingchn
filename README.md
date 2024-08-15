@@ -18,7 +18,7 @@ Previously served as a Cluster Head, showcasing leadership abilities. I'm commit
 
 <h2>🛠️ Tech Stack</h2>
 
-<div align="start">
+<div align="center">
   <!-- Frontend -->
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="30" alt="HTML5 logo" />
   <img width="10" />
@@ -76,7 +76,7 @@ Previously served as a Cluster Head, showcasing leadership abilities. I'm commit
 
 <h2 align="start" style="font-size: 48px;">📫 Let's Connect</h2>
 
-<div align="center">
+<div align="start">
   <a href="https://www.linkedin.com/in/prateek-singh-chouhan-654486243/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="LinkedIn logo"  />
   </a>
@@ -88,9 +88,6 @@ Previously served as a Cluster Head, showcasing leadership abilities. I'm commit
   </a>
   <a href="https://twitter.com/your-twitter-handle" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Twitter logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/your-hackerrank-handle" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="HackerRank logo"  />
   </a>
   <a href="https://leetcode.com/your-leetcode-handle/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="LeetCode logo"  />
