@@ -99,17 +99,15 @@ Previously served as a Cluster Head, showcasing leadership abilities. I'm commit
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prateeksingchn&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+<div style="flex ">
+  <p align="start">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prateeksingchn&theme=radical" alt="GitHub Streak" />
+  </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prateeksingchn&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prateeksingchn&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+  <p align="start">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prateeksingchn&layout=compact&theme=radical" alt="Top Languages" />
+  </p>
+</div>
 
 ## 🏆 GitHub Trophies
 
