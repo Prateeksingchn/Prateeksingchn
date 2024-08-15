@@ -18,7 +18,7 @@ Previously served as a Cluster Head, showcasing leadership abilities. I'm commit
 
 <h2>🛠️ Tech Stack</h2>
 
-<div align="center">
+<div align="start">
   <!-- Frontend -->
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="30" alt="HTML5 logo" />
   <img width="10" />
@@ -39,7 +39,9 @@ Previously served as a Cluster Head, showcasing leadership abilities. I'm commit
   <img src="https://cdn.simpleicons.org/astro/FF5D01" height="30" alt="Astro logo" />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=vite" height="30" alt="Vite logo" />
-
+  
+  <br/>
+  
   <!-- Backend -->
   <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="Node.js logo" />
   <img width="10" />
@@ -52,6 +54,8 @@ Previously served as a Cluster Head, showcasing leadership abilities. I'm commit
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="30" alt="Socket.io logo" />
   <img width="10" />
   <img src="https://cdn.simpleicons.org/appwrite/F02E65" height="30" alt="Appwrite logo" />
+
+  <br/>
   
   <!-- Other Tools -->
   <img src="https://skillicons.dev/icons?i=java" height="30" alt="Java logo" />
