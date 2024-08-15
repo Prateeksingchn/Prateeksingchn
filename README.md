@@ -88,7 +88,7 @@ Previously served as a Cluster Head, showcasing leadership abilities. I'm commit
   <a href="https://twitter.com/your-twitter-handle" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitter logo" />
   </a>
-  <a href="https://leetcode.com/your-leetcode-handle/" target="_blank">
+  <a href="https://leetcode.com/u/prateeeeek/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LeetCode logo" />
   </a>
 </div>
