@@ -18,79 +18,78 @@ Previously served as a Cluster Head, showcasing leadership abilities. I'm commit
 
 <h2>🛠️ Tech Stack</h2>
 
-<div align="center">
+<div align="start">
   <!-- Frontend -->
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="30" alt="HTML5 logo" />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="30" alt="CSS3 logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=javascript" height="30" alt="JavaScript logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="React logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=redux" height="30" alt="Redux logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="Tailwind CSS logo" />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="30" alt="Bootstrap logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="Next.js logo" />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/astro/FF5D01" height="30" alt="Astro logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=vite" height="30" alt="Vite logo" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="35" alt="HTML5 logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" height="35" alt="CSS3 logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="35" alt="JavaScript logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="35" alt="React logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redux" height="35" alt="Redux logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="35" alt="Tailwind CSS logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="35" alt="Bootstrap logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" alt="Next.js logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/astro/FF5D01" height="35" alt="Astro logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="35" alt="Vite logo" />
   
   <br/>
   
   <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="Node.js logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=express" height="30" alt="Express logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="MongoDB logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="MySQL logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="30" alt="Socket.io logo" />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/appwrite/F02E65" height="30" alt="Appwrite logo" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="Node.js logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="35" alt="Express logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="35" alt="MongoDB logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="35" alt="MySQL logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="35" alt="Socket.io logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/appwrite/F02E65" height="35" alt="Appwrite logo" />
 
   <br/>
   
   <!-- Other Tools -->
-  <img src="https://skillicons.dev/icons?i=java" height="30" alt="Java logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=git" height="30" alt="Git logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="GitHub logo" />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/npm/CB3837" height="30" alt="npm logo" />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/jquery/0769AD" height="30" alt="jQuery logo" />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="30" alt="Canva logo" />
+  <img src="https://skillicons.dev/icons?i=java" height="35" alt="Java logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="35" alt="Git logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="35" alt="GitHub logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/npm/CB3837" height="35" alt="npm logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/jquery/0769AD" height="35" alt="jQuery logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="35" alt="Canva logo" />
 </div>
-
 
 ###
 
-<h2 align="start" style="font-size: 48px;">📫 Let's Connect</h2>
+<h2 align="start">📫 Let's Connect</h2>
 
 <div align="start">
   <a href="https://www.linkedin.com/in/prateek-singh-chouhan-654486243/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="LinkedIn logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
   </a>
   <a href="mailto:email@prateeksinghchouhan007.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
   </a>
   <a href="https://www.instagram.com/__.prateeeeek.__/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" />
   </a>
   <a href="https://twitter.com/your-twitter-handle" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Twitter logo"  />
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitter logo" />
   </a>
   <a href="https://leetcode.com/your-leetcode-handle/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="LeetCode logo"  />
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LeetCode logo" />
   </a>
 </div>
 
