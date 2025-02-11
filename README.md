@@ -53,20 +53,58 @@
 </div>
 </details>
 
-## 🤝 Let's Connect
+###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/prateek-singh-chouhan-654486243/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<h2 align="start">📫 Let's Connect</h2>
+
+<div align="start">
+  <a href="https://www.linkedin.com/in/prateek-singh-chouhan-654486243/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
   </a>
-  <a href="mailto:email@prateeksinghchouhan007.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:email@prateeksinghchouhan007.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
   </a>
-  <a href="https://leetcode.com/u/prateeeeek/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  <a href="https://www.instagram.com/__.prateeeeek.__/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" />
+  </a>
+  <a href="https://twitter.com/your-twitter-handle" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitter logo" />
+  </a>
+  <a href="https://leetcode.com/u/prateeeeek/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LeetCode logo" />
   </a>
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%" />
+###
+
+---
+
+## 📊 GitHub Stats
+
+<div style="display: flex; justify-content: space-around; align-items: center;">
+  <div style="flex: 1; padding-right: 10px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prateeksingchn&theme=radical" alt="GitHub Streak" style="max-width: 100%; height: auto;" />
+  </div>
+
+  <div style="flex: 1; padding-left: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prateeksingchn&layout=compact&theme=radical" alt="Top Languages" style="max-width: 100%; height: auto;" />
+  </div>
 </div>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Prateeksingchn&theme=darkhub&no-frame=true&margin-w=15&column=7" alt="GitHub Trophies" />
+</p>
+
+## 🐍 Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prateeksingchn/Prateeksingchn/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prateeksingchn/Prateeksingchn/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Prateeksingchn/Prateeksingchn/output/github-contribution-grid-snake.svg">
+</picture>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>
