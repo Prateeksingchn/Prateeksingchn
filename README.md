@@ -113,8 +113,8 @@
 ## 📊 GitHub Stats
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prateeksingchn&theme=transparent&hide_border=true&stroke=9333EA&ring=9333EA&fire=FF3366&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=888888" width="32%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prateeksingchn&layout=compact&theme=transparent&hide_border=true&title_color=9333EA&text_color=FFFFFF" width="32%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prateeksingchn&theme=transparent&hide_border=true&stroke=9333EA&ring=9333EA&fire=FF3366&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=888888" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prateeksingchn&layout=compact&theme=transparent&hide_border=true&title_color=9333EA&text_color=FFFFFF" width="50%" />
 </div>
 
 ## 🏆 GitHub Trophies
