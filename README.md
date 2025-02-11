@@ -1,128 +1,72 @@
-<h1 align="center">Hi there! 👋 I'm Prateek Singh Chouhan</h1>
-
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;MERN+Stack+Enthusiast;UI%2FUX+Designer;Open+Source+Contributor" alt="Typing SVG" /></a>
-</p>
-
-## 💫 About Me
-
-I'm a passionate Full-Stack Developer from Bhopal, India, with expertise in:
-
-- 🚀 MERN stack (MongoDB, Express.js, React.js, Node.js)
-- ⚡ Next.js for server-side rendering and static site generation
-- 🎨 UI/UX design with a focus on responsive and intuitive interfaces
-- ☕ Java programming and Data Structures & Algorithms
-- 💻 Building robust web applications with efficient server-side logic
-
-Previously served as a Cluster Head, showcasing leadership abilities. I'm committed to writing clean, maintainable code and always eager to explore new technologies. Let's collaborate on exciting projects and contribute to the open-source community!
-
-<h2>🛠️ Tech Stack</h2>
-
-<div align="start">
-  <!-- Frontend -->
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="35" alt="HTML5 logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="35" alt="CSS3 logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=javascript" height="35" alt="JavaScript logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="35" alt="React logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redux" height="35" alt="Redux logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="35" alt="Tailwind CSS logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="35" alt="Bootstrap logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" alt="Next.js logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/astro/FF5D01" height="35" alt="Astro logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="35" alt="Vite logo" />
-  
-  <br/>
-  
-  <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="Node.js logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="35" alt="Express logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="35" alt="MongoDB logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="35" alt="MySQL logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="35" alt="Socket.io logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/appwrite/F02E65" height="35" alt="Appwrite logo" />
-
-  <br/>
-  
-  <!-- Other Tools -->
-  <img src="https://skillicons.dev/icons?i=java" height="35" alt="Java logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="35" alt="Git logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="35" alt="GitHub logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/npm/CB3837" height="35" alt="npm logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/jquery/0769AD" height="35" alt="jQuery logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="35" alt="Canva logo" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Prateek%20Singh%20Chouhan&fontSize=50&fontAlignY=35&desc=Building%20sleek%20and%20effective%20digital%20experiences&descAlignY=55" width="100%" />
 </div>
 
-###
-
-<h2 align="start">📫 Let's Connect</h2>
-
-<div align="start">
-  <a href="https://www.linkedin.com/in/prateek-singh-chouhan-654486243/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
-  </a>
-  <a href="mailto:email@prateeksinghchouhan007.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
-  </a>
-  <a href="https://www.instagram.com/__.prateeeeek.__/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" />
-  </a>
-  <a href="https://twitter.com/your-twitter-handle" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitter logo" />
-  </a>
-  <a href="https://leetcode.com/u/prateeeeek/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LeetCode logo" />
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&duration=3000&pause=1000&color=9333EA&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;UI%2FUX+Designer;Frontend+Specialist;Open+Source+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
 
-###
-
----
-
-## 📊 GitHub Stats
-
-<div style="display: flex; justify-content: space-around; align-items: center;">
-  <div style="flex: 1; padding-right: 10px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prateeksingchn&theme=radical" alt="GitHub Streak" style="max-width: 100%; height: auto;" />
-  </div>
-
-  <div style="flex: 1; padding-left: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prateeksingchn&layout=compact&theme=radical" alt="Top Languages" style="max-width: 100%; height: auto;" />
-  </div>
+<div align="center">
+  <img src="https://img.shields.io/badge/Available_for_Work-4F46E5?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Available for Work" />
+  <img src="https://img.shields.io/badge/Based_in_Bhopal,_India-9333EA?style=for-the-badge&logo=googleearth&logoColor=white" alt="Location" />
 </div>
 
-## 🏆 GitHub Trophies
+## About Me
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Prateeksingchn&theme=darkhub&no-frame=true&margin-w=15&column=7" alt="GitHub Trophies" />
-</p>
+> A full-stack developer, front-end specialist, and UI/UX designer in my final year of Computer Science. With over 50 projects in my portfolio, I focus on creating seamless, efficient, and user-centric digital experiences.
 
-## 🐍 Contribution Graph
+<details>
+<summary><h2>🛠️ Technologies & Tools</h2></summary>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prateeksingchn/Prateeksingchn/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prateeksingchn/Prateeksingchn/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Prateeksingchn/Prateeksingchn/output/github-contribution-grid-snake.svg">
-</picture>
+### Frontend Development
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</p>
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### Design Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Adobe Express](https://img.shields.io/badge/Adobe_Express-FF3366?style=for-the-badge&logo=adobecreativecloud&logoColor=white)
+
+### Development Tools
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+</details>
+
+<details>
+<summary><h2>📊 GitHub Stats</h2></summary>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prateeksingchn&theme=transparent&hide_border=true&stroke=9333EA&ring=9333EA&fire=FF3366&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=888888" width="49%" alt="streak stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Prateeksingchn&rank_icon=github&theme=transparent&hide_border=true&title_color=9333EA&text_color=FFFFFF&icon_color=9333EA" width="49%" alt="github stats" />
+</div>
+</details>
+
+## 🤝 Let's Connect
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/prateek-singh-chouhan-654486243/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:email@prateeksinghchouhan007.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://leetcode.com/u/prateeeeek/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%" />
+</div>
