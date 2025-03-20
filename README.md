@@ -123,10 +123,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Prateeksingchn&theme=darkhub&no-frame=true&margin-w=15&column=7" width="100%" />
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%" />
-</div>
-
 <div align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prateeksingchn&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%" />
 </div>
