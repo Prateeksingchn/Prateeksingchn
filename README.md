@@ -23,7 +23,7 @@
 ## 🎯 Current Focus
 
 - 📚 Currently learning **Cloud Architecture** and **System Design**
-- 🔭 Working on **Designify** - A Frontend React Component Library
+- 🔭 Working on **Aurora UI** - A Frontend React Component Library
 - 👯 Looking to collaborate on **Open Source Projects**
 - 🌱 Exploring **Web3** and **AI/ML**
 
